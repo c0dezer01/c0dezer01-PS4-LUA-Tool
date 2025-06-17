@@ -8,3 +8,4 @@ lapse.lua, bin_loader.lua, send_lua.py
 
 Thanks to Echostrech, Egy and ConsoleHax and everyone who contributed to LUA
 Files have been used from Echos repo https://github.com/EchoStretch/ps4-hen-vtx
+and Sharilnet repo https://github.com/shahrilnet/remote_lua_loader
